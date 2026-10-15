@@ -1,0 +1,103 @@
+
+[
+  {
+    "question": "How can I apply for admission?",
+    "variations": ["How do I join the college?", "What is the admission procedure?", "How can I get admitted?", "How do I apply to this college?"],
+    "answer": "To apply for admission, first check the eligibility criteria for your chosen course. Then complete the official application form, submit the required documents, and follow the college's admission instructions. Check the official website or admissions office for current deadlines and selection procedures."
+  },
+  {
+    "question": "What documents are required for admission?",
+    "variations": ["Which documents do I need?", "What papers should I submit?", "Do I need my marksheets for admission?", "Admission document checklist"],
+    "answer": "Commonly requested documents include previous examination marksheets, a transfer or school-leaving certificate if applicable, identity proof, photographs, and any required category or migration certificates. Confirm the exact checklist with your college because requirements vary."
+  },
+  {
+    "question": "What courses does the college offer?",
+    "variations": ["Which degrees are available?", "What can I study here?", "Tell me about the available programs", "What subjects can I choose?"],
+    "answer": "Available courses depend on the institution and academic year. Check the official course catalogue or contact the admissions office for the current list of programs, eligibility criteria, and course duration."
+  },
+  {
+    "question": "How much are the college fees?",
+    "variations": ["What is the fee structure?", "How much does studying here cost?", "Tell me the tuition fees", "What is the semester fee?"],
+    "answer": "Fees vary by course, year, and applicable charges. Please consult the official fee structure or accounts office for the current tuition, examination, laboratory, and other fees. Ask for the payment deadlines and refund policy too."
+  },
+  {
+    "question": "How can I pay my college fees?",
+    "variations": ["Where do I pay my fees?", "Can I pay fees online?", "What are the payment methods?", "How do I submit tuition fees?"],
+    "answer": "Check your college's official student portal or accounts office for accepted payment methods. Before paying, verify the amount, deadline, and official payment details. Keep the payment receipt for your records."
+  },
+  {
+    "question": "Are scholarships available?",
+    "variations": ["Can I get financial aid?", "Does the college offer scholarships?", "How do I apply for a scholarship?", "Is there any fee concession?"],
+    "answer": "Scholarships and fee concessions may be available through the college or external government and private schemes. Eligibility can depend on academic performance, financial need, category, or other criteria. Contact the scholarship office and confirm application deadlines and required documents."
+  },
+  {
+    "question": "What is the attendance requirement?",
+    "variations": ["How much attendance is compulsory?", "What if my attendance is low?", "How many classes can I miss?", "Is attendance mandatory?"],
+    "answer": "Attendance requirements depend on your institution, course, and applicable university rules. Check your student handbook or ask your department about the minimum percentage, shortage rules, and any permitted exceptions."
+  },
+  {
+    "question": "When are the examinations held?",
+    "variations": ["What is the exam schedule?", "When will my exams start?", "Where can I find exam dates?", "Has the timetable been released?"],
+    "answer": "Examination dates are announced by the college or affiliated university. Check the official examination portal, notices, or department announcements for the confirmed timetable. This chatbot does not have live exam-date information."
+  },
+  {
+    "question": "How can I download my admit card?",
+    "variations": ["Where do I get my hall ticket?", "How do I get my exam entry card?", "My admit card is needed", "Where can I find the examination card?"],
+    "answer": "Admit cards are commonly made available through the official student or examination portal. Sign in and follow the published instructions. If your card is missing or contains an error, contact the examination department before the exam."
+  },
+  {
+    "question": "How can I check my results?",
+    "variations": ["When will results be declared?", "Where can I see my marks?", "How do I check my semester result?", "How can I download my marksheet?"],
+    "answer": "Check the official college or university result portal using the credentials or details requested there. Result dates and marksheet availability vary. If your result is missing or incorrect, contact the examination department."
+  },
+  {
+    "question": "How do I get a student ID card?",
+    "variations": ["Where can I collect my college ID?", "I lost my identity card", "How can I replace my ID card?", "Who issues student ID cards?"],
+    "answer": "Contact the student administration office to learn how ID cards are issued or replaced. You may need your enrollment details, identity proof, a photograph, and a replacement fee if applicable."
+  },
+  {
+    "question": "Does the college have a library?",
+    "variations": ["Can students borrow books?", "What are the library timings?", "How do I get a library card?", "Are textbooks available in the library?"],
+    "answer": "Ask your college library or consult its official information page for opening hours, membership rules, borrowing limits, renewals, and available books or digital resources."
+  },
+  {
+    "question": "Is hostel accommodation available?",
+    "variations": ["Does the college provide a hostel?", "How can I apply for a hostel room?", "What are hostel charges?", "Are there rooms for students?"],
+    "answer": "Hostel availability, room allocation, fees, facilities, and eligibility depend on the institution. Contact the hostel office for current vacancies, application dates, accommodation charges, and rules."
+  },
+  {
+    "question": "Does the college provide placement assistance?",
+    "variations": ["Will I get campus placements?", "Does the college have a placement cell?", "How can I prepare for campus recruitment?", "Which companies visit the campus?"],
+    "answer": "Contact the placement cell for current recruitment schedules, eligibility criteria, participating employers, training sessions, and internship opportunities. Placement outcomes vary by course, student profile, and employer requirements."
+  },
+  {
+    "question": "How can I contact my department?",
+    "variations": ["Where is the department office?", "How do I contact my HOD?", "Who should I ask about my course?", "How can I reach a faculty member?"],
+    "answer": "Use your college's official website, student handbook, or department notice board to find verified contact details. You can also visit the department office during its published working hours."
+  },
+  {
+    "question": "What are the college opening hours?",
+    "variations": ["When does the college open?", "What time do classes begin?", "When does the college close?", "Tell me the working hours"],
+    "answer": "Working hours and class timings vary by institution, department, and timetable. Check the official schedule or contact the college administration for today's timings and holiday notices."
+  },
+  {
+    "question": "How can I get a transfer certificate?",
+    "variations": ["How do I apply for a TC?", "Where can I get my leaving certificate?", "What is the process for a transfer certificate?", "I need a school leaving document"],
+    "answer": "Contact the administration office to request a transfer certificate. Ask about the application form, required documents, clearance of outstanding dues, processing time, and collection procedure."
+  },
+  {
+    "question": "How do I report a technical issue with the student portal?",
+    "variations": ["The student portal is not working", "I cannot log in to the college website", "I forgot my portal password", "My student account has a problem"],
+    "answer": "First check your internet connection and verify that you are using the official portal. Use its password-recovery option if available. If the problem continues, contact the college IT support team with a description of the error. Never share your password or OTP."
+  },
+  {
+    "question": "How can I register for an internship?",
+    "variations": ["Where can I find internship opportunities?", "Does the college help with internships?", "How do I apply for an internship?", "Can students get industry experience?"],
+    "answer": "Check your department notices, placement cell announcements, and official internship portals. Review eligibility, deadlines, application requirements, and whether your department needs to approve the internship."
+  },
+  {
+    "question": "How can I submit a complaint or grievance?",
+    "variations": ["Where do I report a problem?", "How can I make a formal complaint?", "Who handles student grievances?", "I want to report an issue at college"],
+    "answer": "Use the college's official grievance redressal process or contact the designated student support office. Describe the issue clearly, include relevant dates and documents, and retain any acknowledgement or reference number."
+  }
+]
